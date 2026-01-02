@@ -14,6 +14,15 @@ I requested by terminal to confirm the installation of 'create-expo-app'. After 
 Then I entered in the created directory (`cd bat-pass-app`).
 
 
+### Installing the dependencies
+
+Before run the project, I installed the project dependencies with the following command:
+
+```
+npm install
+```
+
+
 ### Running the project
 
 ```
