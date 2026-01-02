@@ -115,3 +115,13 @@ The result viewing through Vysor app was:
 ## Putting major code in Home.tsx
 
 I will not put the entire code here, but teacher passed major of the code to Home.tsx and moved some imports also.
+
+The resulted exported function in App.tsx passed to be:
+
+```
+export default function App() {
+    return (
+        <Home />
+    )
+}
+```
