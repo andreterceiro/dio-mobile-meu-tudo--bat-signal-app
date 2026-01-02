@@ -109,3 +109,9 @@ Note that as you can see in the above code, I made a little change of the defaul
 The result viewing through Vysor app was:
 
 ![Basic App.tsx with the Home screen](images/basic-app-tsx-with-the-home-screen.png)
+
+
+
+## Putting major code in Home.tsx
+
+I will not put the entire code here, but teacher passed major of the code to Home.tsx and moved some imports also.
