@@ -33,3 +33,8 @@ npm run start
 ### Seeing the project in the app
 
 To see the project in the App, in the Expo App already installed in the cellphone, I scanned the QR code showed by the command `npm run start`.
+
+
+### Testing the created project
+
+To test, I changed a text in App.tsx in the created project.
