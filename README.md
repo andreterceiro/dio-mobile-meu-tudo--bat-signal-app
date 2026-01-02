@@ -43,3 +43,8 @@ To test, I changed a text in App.tsx in the created project.
 ### Directory structure
 
 Teacher instructed us to create in the root folder the directory **src** and inside this directory we can put directories, as example "components" and "screens".
+
+
+### All in React Native is a component
+
+Teacher enforced this concept **"all in React Native is a component"**
