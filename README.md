@@ -38,3 +38,8 @@ To see the project in the App, in the Expo App already installed in the cellphon
 ### Testing the created project
 
 To test, I changed a text in App.tsx in the created project.
+
+
+### Directory structure
+
+Teacher instructed us to create in the root folder the directory **src** and inside this directory we can put directories, as example "components" and "screens".
