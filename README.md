@@ -47,4 +47,4 @@ Teacher instructed us to create in the root folder the directory **src** and ins
 
 ### All in React Native is a component
 
-Teacher enforced this concept **"all in React Native is a component"**
+Teacher enforced this concept **"all in React Native is a component"**. As example, a screen is also a component and can return another component.
