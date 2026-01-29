@@ -37,3 +37,5 @@ Documenting the more basic endpoints:
 
 - **GET http://127.0.0.1/contatos**: list all the contacts in the database;
 - **POST http://127.0.0.1/contatos**: add a contact.
+
+In the root directory we have the file [postman_collection.json](postman_collection.json). You can import this file in Postman.
