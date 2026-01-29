@@ -1,0 +1,37 @@
+{
+  "info": {
+    "_postman_id": "cfef3285-3dcf-40bd-a20d-66934b605171",
+    "name": "New Collection",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "10956946",
+    "_collection_link": "https://go.postman.co/collection/10956946-cfef3285-3dcf-40bd-a20d-66934b605171?source=collection_link"
+  },
+  "item": [
+    {
+      "name": "GET all",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "127.0.0.1:3000",
+          "host": [
+            "127",
+            "0",
+            "0",
+            "1"
+          ],
+          "port": "3000"
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "POST",
+      "request": {
+        "method": "GET",
+        "header": []
+      },
+      "response": []
+    }
+  ]
+}
