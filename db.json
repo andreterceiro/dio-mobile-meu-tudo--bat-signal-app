@@ -1,0 +1,11 @@
+{
+  "contatos": [
+    {
+      "id": "0000",  
+      "nome": "André de Paula Terceiro",
+      "telefone": "+5511999998888",
+      "localizacao": "Jabaquara, São Paulo",
+      "obsrvacoes": "Preciso de um bumerangue do Batman"
+    }
+  ]
+}
