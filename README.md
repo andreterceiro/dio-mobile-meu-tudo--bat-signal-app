@@ -15,3 +15,8 @@ The initial code of the project was developed with this command:
 ```
 npx create-expo-app bat-signal-app -t
 ```
+
+
+# JSON server
+
+This app comes with a very simple REST server to receive and provide contact data.
