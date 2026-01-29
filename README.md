@@ -26,3 +26,9 @@ Before starting the JSON server (name of the package that provides the API), ple
 ```sh
 npm install
 ```
+
+Then start the API with the command:
+
+```sh
+json-server --watch db.json
+```
