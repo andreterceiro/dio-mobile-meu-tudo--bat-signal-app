@@ -32,3 +32,7 @@ Then start the API with the command:
 ```sh
 json-server --watch db.json
 ```
+
+Documenting the more basic endpoints:
+
+- **GET http://127.0.0.1/contatos**: list all the contacts in the database;
