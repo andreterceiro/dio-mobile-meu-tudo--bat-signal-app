@@ -36,3 +36,4 @@ json-server --watch db.json
 Documenting the more basic endpoints:
 
 - **GET http://127.0.0.1/contatos**: list all the contacts in the database;
+- **POST http://127.0.0.1/contatos**: add a contact.
