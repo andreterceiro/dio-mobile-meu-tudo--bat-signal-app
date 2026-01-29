@@ -20,3 +20,9 @@ npx create-expo-app bat-signal-app -t
 # JSON server
 
 This app comes with a very simple REST server to receive and provide contact data.
+
+Before starting the JSON server (name of the package that provides the API), please install the Node.JS dependencies with the command:
+
+```sh
+npm install
+```
